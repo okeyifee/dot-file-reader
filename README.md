@@ -18,3 +18,5 @@ Mysql as database,
 Mockito,
 
 Lombok (To simplify/ reduce boilerplate code)
+
+N.B: Before running , please create a database REQ_LIMIT and fix the connection properties in the application.properties file.
